@@ -1,0 +1,20 @@
+1. Which number should come next in the pattern 37 34 31 28? (a) 25 (b) 21 (c) 24 (d) 26
+2.Book is to Reading as Fork is to:? (a) drawing (b) writing (c) stirring (d) eating
+3.Which of the following can be arranged into a 5-letter English word? (a) HRGST (b) RILSA (c) OOOMT (d) WQRGS
+4.Which word does NOT belong with the others? (a) index (b) glossary (c) chapter (d) book
+5.Look at this series: 12, 11, 13, 12, 14, 13, … What number should come next? (a) 15 (b) 10 (c) 16 (d) 13
+  {level 1 quiz  ans 1.a   2.d   3.b   4.d  5.a}
+
+6.The tropic of cancer does not pass through which of these Indian states? (a) MP (b) WB (c) Rajasthan (d) Odisha
+7.The purest form of iron is? (a) wrought iron (b)steel (c) pig iron (d) nickel steel
+8.National Income estimates in India are prepared by? (a) Planning Commission (b) Reserve Bank of India (c) Central statistical organisation (d) Indian statistical Institute
+9.MS-Word is an example of _____? (a) An operating system (b)A processing device (c) Application software (d) An input device
+10.Ctrl, Shift and Alt are called .......... keys? (a) modifier	(b) function (c) alphanumeric	(d) adjustment
+  {level 2 quiz ans 6.d  7.a  8.c 9.c 10.a}
+
+11.Fathometer is used to measure.. A) Earthquakes	B) Rainfall C) Ocean depth	D) Sound intensity
+12.The working principle of a washing machine is.. A) reverse osmosis	B) diffusion C) centrifugation	D) dialysis
+13.A computer cannot "boot" if it does not have the _____A) Compiler	B) Loader    C) Operating system	D) Assembler
+14.Who is the author of the book 'Freedom Behind Bars 'A) Kiran Bedi	B) Jawaharlal Nehru C) Nelson Mandela	D) Sheikh Abdullah
+15.Which latitude passes through the middle of India? A) Equator	B) Arctic Circle C) Tropic of Capricorn	D) Tropic of Cancer
+  {level 3 quiz ans 11. C   12.C   13.C    14.A   15. D  }
